@@ -1,0 +1,16 @@
+# Documentation-only public repository.
+# Production source code and confidential configuration must remain private.
+
+.env
+.env.*
+*.keystore
+*.jks
+*.p12
+*.mobileprovision
+*.cer
+*.pem
+*.key
+google-services.json
+GoogleService-Info.plist
+.DS_Store
+Thumbs.db
